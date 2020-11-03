@@ -8,8 +8,8 @@ console.log( " The difference between " + firstNumber + " and " + secondNumber +
 
 // easy 
 let firstPerson = "Marisol";
-let secondPerson = "Numa";
-console.log(" The name " + firstPerson + " is longer than " + secondPerson + " by 3 characters");
+let secondPerson = "Sol";
+console.log(" The name " + firstPerson + " is longer than " + secondPerson + " by 4 characters");
 
 
 
